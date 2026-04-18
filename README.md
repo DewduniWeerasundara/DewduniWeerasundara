@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dewduni Weerasundara</h1>
+<h3 align="center">💻 Web Developer | IT Undergraduate</h3>
 
-<!--
-**DewduniWeerasundara/DewduniWeerasundara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🎓 Software Engineering Student  
+- 🌱 Currently learning **Full Stack Development (MERN)**  
+- 💡 Interested in **UI/UX Design & Web Development**  
+- 🎯 Goal: Become a skilled Full-Stack Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,python,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dewduni111&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewduni111&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewduni111&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/dewduni111/dewduni111/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+⭐ *“Keep learning, keep building!”*
