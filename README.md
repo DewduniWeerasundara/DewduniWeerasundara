@@ -22,9 +22,8 @@ Welcome To My GITHUB Profile !
 
 ## Project Overview
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/Dewduni-Weerasundara/Dewduni-Weerasundara/main/coding-cat.png" width="700"/>
 </p>
 
 ## 📊 GitHub Stats
