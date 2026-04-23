@@ -21,25 +21,10 @@ Welcome To My GITHUB Profile !
 ---
 
 ## Project Overview
-fcc;">⚡ SYSTEM ONLINE ⚡</h1>
-
-<!-- 🖤🐱 Clean Hacker Style (GitHub Compatible) -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="260" alt="Hacker Cat"/>
 </p>
-
-<h1 align="center">⚡ SYSTEM ONLINE ⚡</h1>
-
-<p align="center">
-  <code>> Initializing developer...</code><br>
-  <code>> Loading MERN stack...</code><br>
-  <code>> Access granted 🚀</code>
-</p>
-
-<h3 align="center">
-  <code style="color:lime;">Future Software Engineer 🚀</code>
-</h3>
 
 ## 📊 GitHub Stats
 
