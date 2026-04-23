@@ -1,53 +1,54 @@
 Welcome To My GITHUB Profile !
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&size=28\&center=true\&vCenter=true\&width=700\&lines=Hi+I'm+Dewduni+Weerasundara;Web+Developer+Student;IT+Undergraduate;Java+%7C+Spring+Boot+Learner)
+# 👋 Hi, I'm Dewduni Weerasundara
+
+🎓 Software Engineering Student
+💻 Interested in Full Stack Development
+🚀 Currently learning React & Backend Development
+🌱 Goal: Become a skilled Full-Stack Developer
+
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Software Engineering Student  
-- 🌱 Currently learning **Full Stack Development (MERN)**  
-- 💡 Interested in **UI/UX Design & Web Development**  
-- 🎯 Goal: Become a skilled Full-Stack Developer  
+
+* 🎓 Software Engineering Student
+* 🌱 Currently learning Full Stack Development (MERN)
+* 💡 Interested in UI/UX Design & Web Development
+* 🎯 Goal: Become a MERN Stack Developer
 
 ---
 
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,python,git,github,vscode" />
-</p>
+## ⚡ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge\&logo=visual-studio-code)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewduni111&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewduni111&theme=tokyonight" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewduni111&layout=compact&theme=tokyonight" />
-</p>
+## 🔥 Contribution Snake
 
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/dewduni111/dewduni111/blob/output/github-contribution-grid-snake.svg" />
-</p>
+![Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
 
 ---
 
