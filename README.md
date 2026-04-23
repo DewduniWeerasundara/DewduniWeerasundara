@@ -19,9 +19,16 @@ Welcome To My GITHUB Profile !
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,git,github,vscode)
 
 ---
-## project OVERVIEW
+
+## 🚀 Project Overview
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+  <b>Smart Campus Operations Hub</b>
+</p>
+
+<p align="center">
+  A full-stack university management system designed to handle resource allocation, 
+  booking management, and maintenance tracking efficiently.
 </p>
 
 ## 📊 GitHub Stats
