@@ -22,16 +22,30 @@ Welcome To My GITHUB Profile !
 
 ## Project Overview
 
-<div align="center" style="background: linear-gradient(135deg, #ffe4ec, #e0f7ff, #f3e8ff); padding: 30px; border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
 
-  <img 
-    src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" 
-    alt="Beautiful cute cat"
-    width="260"
-    style="border-radius: 20px; border: 4px solid white; box-shadow: 0 8px 25px rgba(0,0,0,0.25);"
-  />
+<!-- 🌌 Aesthetic Cat Showcase Section -->
 
-  <h2>🌸🐱 Cute Coder Cat Corner 🐱🌸</h2>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
+<img 
+  src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" 
+  width="280" 
+  alt="Cute aesthetic cat"
+/>
+
+<h1>🐱✨ Aesthetic Code Cat ✨🐱</h1>
+
+<p>
+  🌙 Coding in style • 💻 Building cool projects • 🌸 Soft aesthetic vibes  
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=450&lines=Code.+Create.+Repeat.;Turning+Ideas+into+Reality+%F0%9F%92%BB;Welcome+to+my+GitHub+%F0%9F%9A%80" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
 
