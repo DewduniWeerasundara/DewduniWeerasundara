@@ -32,20 +32,20 @@ Welcome To My GITHUB Profile !
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/LithiraLiyanage/LithiraLiyanage/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/DewduniWeerasundara/DewduniWeerasundara/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=LithiraLiyanage&color=blue)
+![](https://komarev.com/ghpvc/?username=DewduniWeerasundara&color=blue)
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lithira-liyanage-667b99403" target="_blank">
+  <a href="https://www.linkedin.com/in/Dewduni-Weerasundara-667b99403" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
