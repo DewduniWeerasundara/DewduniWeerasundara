@@ -20,10 +20,14 @@ Welcome To My GITHUB Profile !
 
 ---
 
-## Project Overview
+## 🚀 Project Overview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="260" alt="Hacker Cat"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Building+cool+projects+%F0%9F%92%BB;Learning+new+technologies+%F0%9F%8C%B8;Future+Fullstack+Developer+%F0%9F%9A%80" />
 </p>
 
 ## 📊 GitHub Stats
