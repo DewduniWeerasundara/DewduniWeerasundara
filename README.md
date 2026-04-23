@@ -21,17 +21,9 @@ Welcome To My GITHUB Profile !
 ---
 
 ## 🚀 Project Overview
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation"/>
-</p>
-<p align="center">
-  <b>Building modern, scalable, and efficient software solutions</b><br>
-  Focused on clean architecture, performance, and user experience
-</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stack-MERN%20%7C%20Spring%20Boot-0A66C2?style=for-the-badge"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Developer working"/>
 </p>
 
 ## 📊 GitHub Stats
