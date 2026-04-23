@@ -21,31 +21,26 @@ Welcome To My GITHUB Profile !
 ---
 
 ## Project Overview
-<!-- 🖤🐱 Dark Hacker Cat Section -->
+fcc;">⚡ SYSTEM ONLINE ⚡</h1>
 
-<div align="center">
+<!-- 🖤🐱 Clean Hacker Style (GitHub Compatible) -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=120&section=header&text=&fontColor=00ffcc"/>
-
-<img 
-  src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" 
-  width="300" 
-  alt="Hacker cat"
-/>
-
-<h1 style="color:#00ffcc;">⚡ SYSTEM ONLINE ⚡</h1>
-
-<p style="color:#00ffcc;">
-  > Initializing developer...<br>
-  > Loading MERN stack...<br>
-  > Access granted 🚀
+<p align="center">
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="260" alt="Hacker Cat"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=450&lines=Hacking+the+Code+World...;Building+Smart+Systems+%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%9A%80" />
+<h1 align="center">⚡ SYSTEM ONLINE ⚡</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=120&section=footer"/>
+<p align="center">
+  <code>> Initializing developer...</code><br>
+  <code>> Loading MERN stack...</code><br>
+  <code>> Access granted 🚀</code>
+</p>
 
-</div>
+<h3 align="center">
+  <code style="color:lime;">Future Software Engineer 🚀</code>
+</h3>
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DewduniWeerasundara\&show_icons=true\&theme=tokyonight\&hide_border=true)
