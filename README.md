@@ -21,13 +21,9 @@ Welcome To My GITHUB Profile !
 ---
 
 ## 🚀 Project Overview
-
-## 🚀 Project Overview
-
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240" alt="Coding cat"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation"/>
 </p>
-
 <p align="center">
   <b>Building modern, scalable, and efficient software solutions</b><br>
   Focused on clean architecture, performance, and user experience
