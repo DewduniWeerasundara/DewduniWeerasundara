@@ -1,55 +1,84 @@
 Welcome To My GITHUB Profile !
 
-# 👋 Hi, I'm Dewduni Weerasundara
+<!-- HEADER ANIMATION -->
 
-🎓 Software Engineering Student
-💻 Interested in Full Stack Development
-🚀 Currently learning React & Backend Development
-🌱 Goal: Become a skilled Full-Stack Developer
+<h1 align="center">Hi 👋, I'm Dewduni Weerasundara</h1>
+<h3 align="center">🚀 Future Full Stack Developer | MERN Stack Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+in+Progress;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things+🚀" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Software Engineering Student
-* 🌱 Currently learning Full Stack Development (MERN)
-* 💡 Interested in UI/UX Design & Web Development
-* 🎯 Goal: Become a MERN Stack Developer
+✨ Passionate Software Engineering Student
+💻 Currently learning **MERN Stack**
+🎯 Goal: Become a **Professional Full-Stack Developer**
+🔥 Love building modern & user-friendly applications
 
 ---
 
 ## ⚡ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge\&logo=visual-studio-code)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 🔥 Contribution Activity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Fun Fact
+
+💡 *“Code. Learn. Build. Repeat.”*
+🚀 Always improving, one commit at a time
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+⭐️ From Dewduni Weerasundara
 
 ⭐ *“Keep learning, keep building!”*
