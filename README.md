@@ -22,14 +22,8 @@ Welcome To My GITHUB Profile !
 
 ## Project Overview
 
-<h1 align="center">🐱✨ Developer Cat Mode Activated ✨🐱</h1>
-
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="400px" alt="Cute Developer Cat"/>
-</p>
-
-<p align="center">
-  💻 Code • ☕ Coffee • 🚀 Build • 🔥 Repeat
+  <img src="https://raw.githubusercontent.com/DewduniWeerasundara/DewduniWeerasundara/main/dev-cat.png" width="750"/>
 </p>
 
 ---
