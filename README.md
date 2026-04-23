@@ -22,8 +22,14 @@ Welcome To My GITHUB Profile !
 
 ## Project Overview
 
+<h1 align="center">🐱✨ Developer Cat Mode Activated ✨🐱</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/repo-name/main/cat.png" width="400px" alt="Cute Developer Cat"/>
+  <img src="YOUR_IMAGE_LINK_HERE" width="400px" alt="Cute Developer Cat"/>
+</p>
+
+<p align="center">
+  💻 Code • ☕ Coffee • 🚀 Build • 🔥 Repeat
 </p>
 
 ---
