@@ -21,13 +21,8 @@ Welcome To My GITHUB Profile !
 ---
 
 ## Project Overview
-
 <p align="center">
-  <kbd>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZueXp4Y3B4Y3B4Y3B4Y3B4Y3B4Y3B4Y3B4Y3B4Y3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/11sXUXSPl9799S/giphy.gif" width="400" alt="Beautiful Aesthetic Cat">
-  </kbd>
-  <br>
-  <sub><b>Leveling up the vibes...</b></sub>
+  <img src="https://cataas.com/cat/says/Welcome?filter=sepia&color=orange&size=40" width="300">
 </p>
 
 ---
