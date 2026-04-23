@@ -49,7 +49,7 @@ Welcome To My GITHUB Profile !
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:lithiraliyanage666@gmail.com">
+  <a href="mailto:dewduniweerasundara7@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
