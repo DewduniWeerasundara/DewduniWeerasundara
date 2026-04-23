@@ -20,16 +20,6 @@ Welcome To My GITHUB Profile !
 
 ---
 
-## 🚀 Project Overview
-
-<p align="center">
-  <b>Smart Campus Operations Hub</b>
-</p>
-
-<p align="center">
-  A full-stack university management system designed to handle resource allocation, 
-  booking management, and maintenance tracking efficiently.
-</p>
 
 ## 📊 GitHub Stats
 
