@@ -22,12 +22,20 @@ Welcome To My GITHUB Profile !
 
 ## 🚀 Project Overview
 
+## 🚀 Project Overview
+
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240" alt="Coding cat"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Building+cool+projects+%F0%9F%92%BB;Learning+new+technologies+%F0%9F%8C%B8;Future+Fullstack+Developer+%F0%9F%9A%80" />
+  <b>Building modern, scalable, and efficient software solutions</b><br>
+  Focused on clean architecture, performance, and user experience
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-MERN%20%7C%20Spring%20Boot-0A66C2?style=for-the-badge"/>
 </p>
 
 ## 📊 GitHub Stats
