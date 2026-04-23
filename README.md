@@ -20,6 +20,14 @@ Welcome To My GITHUB Profile !
 
 ---
 
+## Project Overview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/repo-name/main/cat.png" width="400px" alt="Cute Developer Cat"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DewduniWeerasundara\&show_icons=true\&theme=tokyonight\&hide_border=true)
