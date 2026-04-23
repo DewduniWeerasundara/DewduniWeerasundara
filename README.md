@@ -21,9 +21,23 @@ Welcome To My GITHUB Profile !
 ---
 
 ## Project Overview
+
 <p align="center">
-  <img src="https://cataas.com/cat/says/Welcome?filter=sepia&color=orange&size=40" width="300">
+  <img 
+    src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" 
+    alt="Cute animated cat"
+    width="260"
+    style="border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.25);"
+  />
 </p>
+
+<div align="center">
+
+# ✨🐾 Welcome to My GitHub Profile 🐾✨
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Cute+Code+Cat+Mode+Activated+%F0%9F%90%B1;Building+Projects+with+Style+%F0%9F%92%BB;Welcome+to+my+GitHub+world+%E2%9C%A8" alt="Typing SVG" />
+
+</div>
 
 ---
 
