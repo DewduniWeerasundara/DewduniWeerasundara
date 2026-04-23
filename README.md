@@ -23,31 +23,19 @@ Welcome To My GITHUB Profile !
 ## Project Overview
 
 
-<!-- 🌌 Aesthetic Cat Showcase Section -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-
-<img 
-  src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" 
-  width="280" 
-  alt="Cute aesthetic cat"
-/>
-
-<h1>🐱✨ Aesthetic Code Cat ✨🐱</h1>
-
-<p>
-  🌙 Coding in style • 💻 Building cool projects • 🌸 Soft aesthetic vibes  
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" 
+    width="280" 
+    alt="Cute aesthetic cat"
+  />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=450&lines=Code.+Create.+Repeat.;Turning+Ideas+into+Reality+%F0%9F%92%BB;Welcome+to+my+GitHub+%F0%9F%9A%80" />
+<h1 align="center">🐱✨ Welcome to My Cute Coding World ✨🐱</h1>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  💻 Building cool projects • 🌸 Clean UI lover • 🚀 Future developer
+</p>
 
 ## 📊 GitHub Stats
 
