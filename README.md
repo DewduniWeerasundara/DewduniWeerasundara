@@ -24,9 +24,8 @@ Welcome To My GITHUB Profile !
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="700"/>
 </p>
-
 
 ## 📊 GitHub Stats
 
