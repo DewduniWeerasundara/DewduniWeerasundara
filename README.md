@@ -23,7 +23,7 @@ Welcome To My GITHUB Profile !
 ## Project Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DewduniWeerasundara/DewduniWeerasundara/main/dev-cat.png" width="750"/>
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="700"/>
 </p>
 
 ---
