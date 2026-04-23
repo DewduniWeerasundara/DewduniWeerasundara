@@ -19,9 +19,9 @@ Welcome To My GITHUB Profile !
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,git,github,vscode)
 
 ---
-
+## project OVERVIEW
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Tech animation"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Tech animation"/>
 </p>
 
 ## 📊 GitHub Stats
