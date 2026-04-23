@@ -1,13 +1,13 @@
 Welcome To My GITHUB Profile !
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&size=28\&center=true\&vCenter=true\&width=700\&lines=Hi+I'm+Lithira+Liyanage;Software+Engineering+Student;Web+Developer;Java+%7C+Spring+Boot+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&size=28\&center=true\&vCenter=true\&width=700\&lines=Hi+I'm+Dewduni+Weerasundara;IT+Intern+Student;Web+Developer;Java+%7C+Spring+Boot+Learner)
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Software Engineering Student
+* 🎓 Inforamtion Technology Student
 * 🌱 Learning **Java | Spring Boot | MERN**
 * 🔭 Working on university projects
 * 🎯 Goal: Become a Full-Stack Developer
