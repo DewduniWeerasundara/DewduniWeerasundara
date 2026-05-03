@@ -1,7 +1,7 @@
 # 🌸 Welcome To My GitHub Profile!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=750&lines=Hi+I'm+Dewduni+Weerasundara;IT+Intern+Student;Full+Stack+Developer+Learner;Java+%7C+Spring+Boot+%7C+MERN+Stack;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=750&lines=Hi+I'm+Dewduni+Weerasundara;IT+Intern+Student;Web+Developer;Java+%7C+Spring+Boot+%7C+MERN+Learner;Always+Learning+%26+Building" />
 </p>
 
 ---
@@ -39,48 +39,43 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DewduniWeerasundara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📊 GitHub Stats & Grade
-## 📊 GitHub Stats & Grade
+## ⭐ Developer Grade
 
 <div align="center">
 
-### 🌟 Developer Progress Highlight
-
 <table>
   <tr>
-    <td align="center" width="250">
-      <img src="https://img.shields.io/badge/GitHub%20Grade-Aspiring%20Developer-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+    <td align="center" width="280">
+      <img src="https://img.shields.io/badge/GitHub%20Grade-A%2B-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+      <br><br>
+      <b>🌟 Profile Grade</b>
+      <br>
+      A+ Aspiring Developer
+    </td>
+    <td align="center" width="280">
+      <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-00C2FF?style=for-the-badge&logo=codeforces&logoColor=white" />
       <br><br>
       <b>🚀 Current Level</b>
       <br>
-      Beginner to Intermediate
+      Growing Full-Stack Developer
     </td>
-    <td align="center" width="250">
-      <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00C2FF?style=for-the-badge&logo=react&logoColor=white" />
-      <br><br>
-      <b>💻 Main Focus</b>
-      <br>
-      Java, Spring Boot & MERN
-    </td>
-    <td align="center" width="250">
-      <img src="https://img.shields.io/badge/Status-Actively%20Learning-00D26A?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <td align="center" width="280">
+      <img src="https://img.shields.io/badge/Status-Actively%20Building-00D26A?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
       <br><br>
       <b>📈 Progress</b>
       <br>
-      Building Projects & Improving Skills
+      Learning, Practicing & Improving
     </td>
   </tr>
 </table>
 
-<br>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DewduniWeerasundara&theme=tokyonight" />
 
@@ -95,21 +90,31 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DewduniWeerasundara&theme=tokyonight&utcOffset=5.5" />
 
 </div>
+
 ---
 
-## 📈 Contribution Activity
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DewduniWeerasundara&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DewduniWeerasundara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📌 Current Focus
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DewduniWeerasundara/DewduniWeerasundara/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+
+| Area | Status |
+|---|---|
+| Java | Learning |
+| Spring Boot | Learning |
+| MERN Stack | Practicing |
+| Frontend Development | Improving |
+| Backend Development | Building Projects |
+| Git & GitHub | Improving Profile |
+
+</div>
 
 ---
 
