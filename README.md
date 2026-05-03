@@ -1,15 +1,23 @@
-# Welcome To My GitHub Profile!
+# 🌸 Welcome To My GitHub Profile!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Dewduni+Weerasundara;IT+Intern+Student;Web+Developer;Java+%7C+Spring+Boot+Learner)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=750&lines=Hi+I'm+Dewduni+Weerasundara;IT+Intern+Student;Full+Stack+Developer+Learner;Java+%7C+Spring+Boot+%7C+MERN+Stack;Always+Learning+%26+Building" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-* 🎓 Information Technology Student
-* 🌱 Learning **Java | Spring Boot | MERN**
-* 🔭 Working on university projects
-* 🎯 Goal: Become a Full-Stack Developer
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="330"/>
+
+* 🎓 Information Technology Student  
+* 💻 Passionate about **Web Development**
+* 🌱 Currently learning **Java | Spring Boot | MERN Stack**
+* 🔭 Working on university software projects
+* 🎯 Goal: Become a **Full-Stack Developer**
+* 🚀 Interested in building real-world applications
+
+<br clear="right"/>
 
 ---
 
@@ -25,35 +33,57 @@
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,git,github,vscode)
-
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DewduniWeerasundara&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DewduniWeerasundara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=DewduniWeerasundara&theme=tokyonight&hide_border=true)
+---
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DewduniWeerasundara&layout=compact&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats & Grade
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DewduniWeerasundara&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DewduniWeerasundara&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DewduniWeerasundara&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DewduniWeerasundara&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/DewduniWeerasundara/DewduniWeerasundara/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DewduniWeerasundara/DewduniWeerasundara/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=DewduniWeerasundara&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DewduniWeerasundara&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
 
 ---
 
@@ -61,12 +91,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Dewduni-Weerasundara-667b99403" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:dewduniweerasundara7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-⭐ *“Keep learning, keep building!”*
+---
+
+<p align="center">
+  <b>⭐ “Keep learning, keep building, and never stop improving!” ⭐</b>
+</p>
