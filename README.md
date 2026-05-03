@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/🎯%20Goal-Full--Stack%20Developer-FF69B4?style=for-the-badge" />
 
 </div>
-
 ---
 
 ## 👩‍💻 About Me
