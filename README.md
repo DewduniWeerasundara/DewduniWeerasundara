@@ -1,7 +1,7 @@
 # 🌸 Welcome To My GitHub Profile!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=750&lines=Hi+I'm+Dewduni+Weerasundara;IT+Intern+Student;Web+Developer;Java+%7C+Spring+Boot+%7C+MERN+Learner;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=800&lines=Hi+I'm+Dewduni+Weerasundara;IT+Intern+Student;Web+Developer;Java+%7C+Spring+Boot+%7C+MERN+Learner;Always+Learning+%26+Building" />
 </p>
 
 ---
@@ -16,6 +16,7 @@
 * 🔭 Working on university software projects
 * 🎯 Goal: Become a **Full-Stack Developer**
 * 🚀 Interested in building real-world applications
+* 📌 Focused on improving **frontend, backend, database, and GitHub skills**
 
 <br clear="right"/>
 
@@ -34,37 +35,90 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,mongodb,git,github,vscode" />
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,spring,python,kotlin,mongodb,mysql,git,github,docker,postman,vscode,figma" />
+
 </p>
 
 ---
 
-## ⭐ Developer Grade
+## 🧠 Technical Skills
 
 <div align="center">
 
+| Category | Skills |
+|---|---|
+| **Frontend** | HTML, CSS, JavaScript, TypeScript, React.js, Next.js |
+| **Backend** | Node.js, Express.js, Java, Spring Boot |
+| **Mobile Development** | Kotlin, Android Basics |
+| **Database** | MongoDB, MySQL |
+| **Tools** | Git, GitHub, VS Code, Postman, Docker |
+| **UI/UX** | Figma, Responsive Design |
+| **Currently Learning** | Spring Boot, MERN Stack, Full-Stack Development |
+
+</div>
+
+---
+
+## 🏆 GitHub Stats & Developer Grade
+
+<div align="center">
+
+<h1>
+  <img src="https://img.shields.io/badge/Developer%20Grade-B%2B-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+</h1>
+
+<h2>💜 B+ Developer Profile</h2>
+
 <table>
   <tr>
-    <td align="center" width="280">
-      <img src="https://img.shields.io/badge/GitHub%20Grade-A%2B-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
-      <br><br>
-      <b>🌟 Profile Grade</b>
-      <br>
-      A+ Aspiring Developer
-    </td>
-    <td align="center" width="280">
-      <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-00C2FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/Level-Advanced%20Beginner-FF69B4?style=for-the-badge&logo=codeforces&logoColor=white" />
       <br><br>
       <b>🚀 Current Level</b>
       <br>
-      Growing Full-Stack Developer
+      Advanced Beginner
     </td>
-    <td align="center" width="280">
-      <img src="https://img.shields.io/badge/Status-Actively%20Building-00D26A?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/Status-Improving%20Fast-00D26A?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
       <br><br>
-      <b>📈 Progress</b>
+      <b>📈 Growth Status</b>
       <br>
-      Learning, Practicing & Improving
+      Improving Fast
+    </td>
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00C2FF?style=for-the-badge&logo=react&logoColor=white" />
+      <br><br>
+      <b>💻 Main Focus</b>
+      <br>
+      MERN + Java Spring Boot
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220">
+      <h3>💻 Frontend</h3>
+      <h2>B+</h2>
+      <p>React, HTML, CSS, JS</p>
+    </td>
+    <td align="center" width="220">
+      <h3>⚙️ Backend</h3>
+      <h2>B</h2>
+      <p>Node, Express, Java</p>
+    </td>
+    <td align="center" width="220">
+      <h3>🗄️ Database</h3>
+      <h2>B</h2>
+      <p>MongoDB, MySQL</p>
+    </td>
+    <td align="center" width="220">
+      <h3>🧰 Tools</h3>
+      <h2>B+</h2>
+      <p>Git, GitHub, Postman</p>
     </td>
   </tr>
 </table>
@@ -73,7 +127,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <div align="center">
 
@@ -93,28 +147,46 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🎯 Current Focus
+
+<div align="center">
+
+| Learning Area | Progress |
+|---|---|
+| Java | ⭐⭐⭐⭐☆ |
+| Spring Boot | ⭐⭐⭐☆☆ |
+| MERN Stack | ⭐⭐⭐⭐☆ |
+| React.js | ⭐⭐⭐⭐☆ |
+| MongoDB | ⭐⭐⭐⭐☆ |
+| MySQL | ⭐⭐⭐☆☆ |
+| Git & GitHub | ⭐⭐⭐⭐☆ |
+| UI/UX Design | ⭐⭐⭐☆☆ |
+
+</div>
+
+---
+
+## 🚀 Featured Project Areas
+
+<div align="center">
+
+| Project Type | Technologies |
+|---|---|
+| Web Applications | React, Node.js, Express, MongoDB |
+| Java Backend Projects | Java, Spring Boot, MySQL |
+| Android Applications | Kotlin, XML, SharedPreferences |
+| UI/UX Designs | Figma, Responsive Design |
+| University Projects | MERN, Java, Database Systems |
+
+</div>
+
+---
+
+## 🏅 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DewduniWeerasundara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
-
----
-
-## 📌 Current Focus
-
-<div align="center">
-
-| Area | Status |
-|---|---|
-| Java | Learning |
-| Spring Boot | Learning |
-| MERN Stack | Practicing |
-| Frontend Development | Improving |
-| Backend Development | Building Projects |
-| Git & GitHub | Improving Profile |
-
-</div>
 
 ---
 
