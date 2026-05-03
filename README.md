@@ -191,50 +191,12 @@
 
 ## 🚀 Featured Project Areas
 
-<table>
-<tr>
-<td width="20%" align="center">
 
-### 🌐 Web Applications  
-Building modern full-stack web apps using MERN stack.
+## 🐍 Contribution Snake
 
-`React` `Node.js` `MongoDB`
-
-</td>
-<td width="20%" align="center">
-
-### ☕ Java Backend Systems  
-Developing backend applications using Java and Spring Boot.
-
-`Java` `Spring Boot` `MySQL`
-
-</td>
-<td width="20%" align="center">
-
-### 🤖 Android Applications  
-Creating user-friendly Android apps with Kotlin.
-
-`Kotlin` `XML` `Android`
-
-</td>
-<td width="20%" align="center">
-
-### 🎨 UI/UX Designs  
-Designing clean and modern interfaces using Figma.
-
-`Figma` `UI/UX` `Design`
-
-</td>
-<td width="20%" align="center">
-
-### 🎓 University Projects  
-Academic projects focused on real-world problem solving.
-
-`MERN` `Java` `DBMS`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DewduniWeerasundara/DewduniWeerasundara/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
