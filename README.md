@@ -48,19 +48,53 @@
 ---
 
 ## 📊 GitHub Stats & Grade
+## 📊 GitHub Stats & Grade
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DewduniWeerasundara&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DewduniWeerasundara&theme=tokyonight&hide_border=true" />
-</p>
+### 🌟 Developer Progress Highlight
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DewduniWeerasundara&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/GitHub%20Grade-Aspiring%20Developer-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+      <br><br>
+      <b>🚀 Current Level</b>
+      <br>
+      Beginner to Intermediate
+    </td>
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00C2FF?style=for-the-badge&logo=react&logoColor=white" />
+      <br><br>
+      <b>💻 Main Focus</b>
+      <br>
+      Java, Spring Boot & MERN
+    </td>
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/Status-Actively%20Learning-00D26A?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <br><br>
+      <b>📈 Progress</b>
+      <br>
+      Building Projects & Improving Skills
+    </td>
+  </tr>
+</table>
 
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DewduniWeerasundara&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DewduniWeerasundara&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DewduniWeerasundara&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DewduniWeerasundara&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DewduniWeerasundara&theme=tokyonight&utcOffset=5.5" />
+
+</div>
 ---
 
 ## 📈 Contribution Activity
