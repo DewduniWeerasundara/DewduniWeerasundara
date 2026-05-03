@@ -1,16 +1,25 @@
-Welcome To My GITHUB Profile !
+# Welcome To My GitHub Profile!
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&size=28\&center=true\&vCenter=true\&width=700\&lines=Hi+I'm+Dewduni+Weerasundara;IT+Intern+Student;Web+Developer;Java+%7C+Spring+Boot+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Dewduni+Weerasundara;IT+Intern+Student;Web+Developer;Java+%7C+Spring+Boot+Learner)
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Inforamtion Technology Student
+* 🎓 Information Technology Student
 * 🌱 Learning **Java | Spring Boot | MERN**
 * 🔭 Working on university projects
 * 🎯 Goal: Become a Full-Stack Developer
+
+---
+
+## 🌍 My Portfolio
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -20,15 +29,19 @@ Welcome To My GITHUB Profile !
 
 ---
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380"/>
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DewduniWeerasundara\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=DewduniWeerasundara&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=DewduniWeerasundara\&theme=tokyonight\&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=DewduniWeerasundara&theme=tokyonight&hide_border=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DewduniWeerasundara\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DewduniWeerasundara&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
