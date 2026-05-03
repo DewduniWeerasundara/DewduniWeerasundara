@@ -63,36 +63,7 @@
 
 ## 🏆 GitHub Stats
 
-<div align="center">
 
-<h2>🚀 GitHub Performance Grade</h2>
-
-<!-- Automatic GitHub Grade Card -->
-<img width="58%" src="https://github-readme-stats.vercel.app/api?username=DewduniWeerasundara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=My%20GitHub%20Performance%20Grade" />
-
-<br><br>
-
-<p>
-  <img src="https://img.shields.io/badge/LEVEL-ADVANCED%20DEVELOPER-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-IMPROVING%20FAST-00C9A7?style=for-the-badge&logo=rocket&logoColor=white" />
-</p>
-
-<br>
-
-<!-- Stable Summary Cards -->
-<img width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DewduniWeerasundara&theme=tokyonight" />
-
-<br><br>
-
-<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DewduniWeerasundara&theme=tokyonight" />
-<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DewduniWeerasundara&theme=tokyonight" />
-
-<br><br>
-
-<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DewduniWeerasundara&theme=tokyonight" />
-<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DewduniWeerasundara&theme=tokyonight&utcOffset=5.5" />
-
-</div>
 
 ---
 
