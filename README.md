@@ -270,6 +270,6 @@ Academic projects focused on real-world problem solving.
 
 <br><br>
 
-### 💜 Keep learning, keep building, and never stop improving!
+### 🩷 Keep learning, keep building, and never stop improving!
 
 </div>
