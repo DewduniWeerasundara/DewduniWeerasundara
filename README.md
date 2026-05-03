@@ -189,9 +189,6 @@
 
 ---
 
-## 🚀 Featured Project Areas
-
-
 ## 🐍 Contribution Snake
 
 <p align="center">
