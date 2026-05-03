@@ -60,71 +60,32 @@
 
 ---
 
-## 🏆 GitHub Stats & Developer Grade
+
+## 🏆 GitHub Stats
 
 <div align="center">
 
-<h1>
-  <img src="https://img.shields.io/badge/Developer%20Grade-B%2B-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=B%2B&fontSize=90&color=gradient&customColorList=12,20,24&fontColor=ffffff&animation=fadeIn" />
 
-<h2>💜 B+ Developer Profile</h2>
+<h3>Advanced Developer | GitHub Performance</h3>
 
-<table>
-  <tr>
-    <td align="center" width="260">
-      <img src="https://img.shields.io/badge/Level-Advanced%20Beginner-FF69B4?style=for-the-badge&logo=codeforces&logoColor=white" />
-      <br><br>
-      <b>🚀 Current Level</b>
-      <br>
-      Advanced Beginner
-    </td>
-    <td align="center" width="260">
-      <img src="https://img.shields.io/badge/Status-Improving%20Fast-00D26A?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      <br><br>
-      <b>📈 Growth Status</b>
-      <br>
-      Improving Fast
-    </td>
-    <td align="center" width="260">
-      <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00C2FF?style=for-the-badge&logo=react&logoColor=white" />
-      <br><br>
-      <b>💻 Main Focus</b>
-      <br>
-      MERN + Java Spring Boot
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/LEVEL-ADVANCED%20DEVELOPER-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-IMPROVING%20FAST-00C9A7?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
 
 <br>
 
-<table>
-  <tr>
-    <td align="center" width="220">
-      <h3>💻 Frontend</h3>
-      <h2>B+</h2>
-      <p>React, HTML, CSS, JS</p>
-    </td>
-    <td align="center" width="220">
-      <h3>⚙️ Backend</h3>
-      <h2>B</h2>
-      <p>Node, Express, Java</p>
-    </td>
-    <td align="center" width="220">
-      <h3>🗄️ Database</h3>
-      <h2>B</h2>
-      <p>MongoDB, MySQL</p>
-    </td>
-    <td align="center" width="220">
-      <h3>🧰 Tools</h3>
-      <h2>B+</h2>
-      <p>Git, GitHub, Postman</p>
-    </td>
-  </tr>
-</table>
+<img width="78%" src="https://github-readme-stats.vercel.app/api?username=DewduniWeerasundara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=DewduniWeerasundara%20GitHub%20Profile" />
+
+<br><br>
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DewduniWeerasundara&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=DewduniWeerasundara&theme=tokyonight&hide_border=true" />
 
 </div>
 
+---
 ---
 
 ## 📊 GitHub Performance
