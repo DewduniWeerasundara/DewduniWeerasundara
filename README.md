@@ -1,86 +1,129 @@
+<div align="center">
+
 # 🌸 Welcome To My GitHub Profile!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=850&lines=Hi+I'm+Dewduni+Weerasundara;IT+Intern+Student;Web+Developer;Java+%7C+Spring+Boot+%7C+MERN+Learner;Always+Learning+%26+Building" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Dewduni+Weerasundara;IT+Intern+Student;Software+Engineer+Aspirant;Java+%7C+Spring+Boot+%7C+MERN+Stack;Always+Learning+%26+Building" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DewduniWeerasundara&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/📍%20Sri%20Lanka-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎓%20Information%20Technology%20Student-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎯%20Goal-Full--Stack%20Developer-FF69B4?style=for-the-badge" />
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
-</p>
+<table>
+<tr>
+<td width="65%">
 
-- 🎓 Information Technology Student  
-- 💻 Passionate about **Web Development**
-- 🌱 Currently learning **Java | Spring Boot | MERN Stack**
-- 🔭 Working on **university software projects**
-- 🎯 Goal: Become a **Full-Stack Developer**
-- 🚀 Interested in building **real-world applications**
-- 📌 Focused on improving **frontend, backend, database, and GitHub skills**
+- 🎓 Information Technology undergraduate passionate about building web applications.  
+- 🌱 Currently learning **Java, Spring Boot, and MERN Stack**.  
+- 🔍 Working on real-world and university projects to improve my skills.  
+- 💡 I love turning ideas into solutions through code.  
+- 🚀 Always eager to learn new technologies and grow as a developer.  
 
----
+</td>
+<td width="35%" align="center">
 
-## 🌍 Portfolio
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
 
-<p align="center">
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+> **“Code is not just what I write,  
+> it is how I solve problems  
+> and make ideas real.”**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,spring,python,kotlin,mongodb,mysql,git,github,docker,postman,vscode,figma" />
-</p>
+<table>
+<tr>
+<td align="center" width="25%">
+
+### Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+
+</td>
+<td align="center" width="25%">
+
+### Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
+
+</td>
+<td align="center" width="25%">
+
+### Database  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</td>
+<td align="center" width="25%">
+
+### Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Technical Skills
+## 🏆 GitHub Performance Grade
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+# A+
+
+### EXCELLENT  
+**Software Engineer Student**
+
+</td>
+<td align="center" width="25%">
+
+### 📈 Consistency  
+**Excellent**
+
+`█████████░` **90%**
+
+</td>
+<td align="center" width="25%">
+
+### 💻 Coding Skills  
+**Advanced**
+
+`████████░░` **85%**
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 Growth  
+**Excellent**
+
+`█████████░` **92%**
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-| Category | Skills |
-|---|---|
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, React.js, Next.js |
-| **Backend** | Node.js, Express.js, Java, Spring Boot |
-| **Mobile Development** | Kotlin, Android Basics |
-| **Database** | MongoDB, MySQL |
-| **Tools** | Git, GitHub, VS Code, Postman, Docker |
-| **UI/UX** | Figma, Responsive Design |
-| **Currently Learning** | Spring Boot, MERN Stack, Full-Stack Development |
+<img src="https://img.shields.io/badge/LEVEL-Advanced%20Developer-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-Improving%20Fast-00C9A7?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-Full--Stack%20Development-1E90FF?style=for-the-badge&logo=react&logoColor=white" />
 
 </div>
 
 ---
 
-## 🏆 Developer Grade
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GitHub%20Grade-A%2B%20Excellent-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Level-Advanced%20Developer-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Excellent%20Progress-00C9A7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-1E90FF?style=for-the-badge" />
-
-<br><br>
-
-### ✨ Performance Summary
-**Excellent Learner • Strong Growth Mindset • Improving Rapidly**
-
-</div>
-
----
-
-## 📊 GitHub Performance
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -88,74 +131,146 @@
 
 <br><br>
 
-<img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DewduniWeerasundara&theme=tokyonight" />
-<img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DewduniWeerasundara&theme=tokyonight" />
+<img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DewduniWeerasundara&theme=tokyonight" />
+<img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DewduniWeerasundara&theme=tokyonight&utcOffset=5.5" />
 
 <br><br>
 
-<img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DewduniWeerasundara&theme=tokyonight" />
-<img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DewduniWeerasundara&theme=tokyonight&utcOffset=5.5" />
+<img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DewduniWeerasundara&theme=tokyonight" />
+<img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DewduniWeerasundara&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 My Skill Progress
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 
-| Learning Area | Progress |
-|---|---|
-| Java | ⭐⭐⭐⭐☆ |
-| Spring Boot | ⭐⭐⭐⭐☆ |
-| MERN Stack | ⭐⭐⭐⭐☆ |
-| React.js | ⭐⭐⭐⭐☆ |
-| MongoDB | ⭐⭐⭐⭐☆ |
-| MySQL | ⭐⭐⭐☆☆ |
-| Git & GitHub | ⭐⭐⭐⭐☆ |
-| UI/UX Design | ⭐⭐⭐☆☆ |
+### ☕ Java  
+`████████░░` **85%**
 
-</div>
+</td>
+<td align="center" width="33%">
+
+### 🍃 Spring Boot  
+`███████░░░` **75%**
+
+</td>
+<td align="center" width="33%">
+
+### ⚛️ React.js  
+`████████░░` **85%**
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 🟢 Node.js  
+`████████░░` **80%**
+
+</td>
+<td align="center" width="33%">
+
+### 🍃 MongoDB  
+`███████░░░` **75%**
+
+</td>
+<td align="center" width="33%">
+
+### 🐬 MySQL  
+`███████░░░` **70%**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Project Areas
 
-<div align="center">
+<table>
+<tr>
+<td width="20%" align="center">
 
-| Project Type | Technologies |
-|---|---|
-| **Web Applications** | React, Node.js, Express, MongoDB |
-| **Java Backend Projects** | Java, Spring Boot, MySQL |
-| **Android Applications** | Kotlin, XML, SharedPreferences |
-| **UI/UX Designs** | Figma, Responsive Design |
-| **University Projects** | MERN, Java, Database Systems |
+### 🌐 Web Applications  
+Building modern full-stack web apps using MERN stack.
 
-</div>
+`React` `Node.js` `MongoDB`
+
+</td>
+<td width="20%" align="center">
+
+### ☕ Java Backend Systems  
+Developing backend applications using Java and Spring Boot.
+
+`Java` `Spring Boot` `MySQL`
+
+</td>
+<td width="20%" align="center">
+
+### 🤖 Android Applications  
+Creating user-friendly Android apps with Kotlin.
+
+`Kotlin` `XML` `Android`
+
+</td>
+<td width="20%" align="center">
+
+### 🎨 UI/UX Designs  
+Designing clean and modern interfaces using Figma.
+
+`Figma` `UI/UX` `Design`
+
+</td>
+<td width="20%" align="center">
+
+### 🎓 University Projects  
+Academic projects focused on real-world problem solving.
+
+`MERN` `Java` `DBMS`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏅 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DewduniWeerasundara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DewduniWeerasundara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/Dewduni-Weerasundara-667b99403" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:dewduniweerasundara7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/Dewduni-Weerasundara-667b99403" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dewduniweerasundara7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-dewduniweerasundara7%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <b>⭐ Keep learning, keep building, and never stop improving! ⭐</b>
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DewduniWeerasundara&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+
+<br><br>
+
+### 💜 Keep learning, keep building, and never stop improving!
+
+</div>
