@@ -73,13 +73,6 @@
 
 ---
 
-## 🏆 GitHub Performance Grade
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-# A+
 
 ### EXCELLENT  
 **Software Engineer Student**
