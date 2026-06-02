@@ -74,36 +74,7 @@
 ---
 
 
-### EXCELLENT  
-**Software Engineer Student**
 
-</td>
-<td align="center" width="25%">
-
-### 📈 Consistency  
-**Excellent**
-
-`█████████░` **90%**
-
-</td>
-<td align="center" width="25%">
-
-### 💻 Coding Skills  
-**Advanced**
-
-`████████░░` **85%**
-
-</td>
-<td align="center" width="25%">
-
-### 🚀 Growth  
-**Excellent**
-
-`█████████░` **92%**
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
